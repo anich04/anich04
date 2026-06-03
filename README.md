@@ -1,47 +1,68 @@
-# 👋 Hey, I'm Anirudh CH
+# 👋 Hey, I'm Anirudh Chennupati
 
-🎓 **Computer Science Student at KMIT**  
-🔒 **Aspiring Cybersecurity Engineer | Junior Pentester | Bug Bounty Hunter**
+🎓 **Computer Science Graduate (B.Tech, 2026) — KMIT, Hyderabad**
+🛡️ **Aspiring SOC Analyst | Threat Detection · Incident Response | CompTIA Security+ candidate · TryHackMe SOC L1**
 
 ---
 
 ## 🚀 About Me
-I'm passionate about exploring how systems break and how to secure them.  
-With a background in computer science, I combine **programming** and **ethical hacking** to build security tools and gain real-world experience.
 
-I’m currently learning:
-- Penetration Testing (Web + Network)
-- Vulnerability Assessment
-- Bug Bounty Methodology
-- Secure Coding with Python
+I'm a CS graduate focused on the **blue-team side of security** — monitoring, detecting, and responding to threats.
+
+My hands-on work has centered on understanding how attacks happen so I can catch them:
+
+- Built an **AI honeypot** that captures and analyzes malicious network traffic in real time
+- Built a **Linux forensics & incident-response toolkit**
+- Ran **web-application security assessments** against the OWASP Top 10 — documenting what an attacker does and how a defender detects and stops it
+
+---
+
+## 🔭 Currently Building
+
+- 📚 Working through the **TryHackMe SOC Level 1** path (SIEM, log analysis, incident response)
+- 🏅 Preparing for **CompTIA Security+**
+- 🖥️ Building a **home SIEM lab** (Windows/Sysmon logs → Splunk/Elastic) with full incident investigations mapped to **MITRE ATT&CK**
 
 ---
 
 ## 🧩 Featured Projects
+
 | Project | Description | Tech |
-|----------|--------------|------|
-| [🔎 Python Vulnerability Scanner](https://github.com/anich04/vulnerability-scanner) | A CLI tool for scanning open ports and identifying running services using socket programming. | Python, Socket |
-| [🧠 Recon Automation Script](#) *(coming soon)* | Automates subdomain enumeration and basic recon tasks. | Bash, Python |
-| [📄 Cyber Notes Repo](#) *(coming soon)* | A collection of notes, writeups, and mini-labs on cybersecurity concepts. | Markdown, Network Tools |
+|---|---|---|
+| 🍯 [AI Honeypot](https://github.com/anich04/ai-honeypot-project) | Captures & analyzes malicious network traffic in real time using AI | Python, Scapy |
+| 🔎 [Linux Forensics Toolkit](https://github.com/anich04/pentest-portfolio) | Incident-response and forensics scripts for Linux systems | Bash, Python |
+| 🌐 [OWASP Web Assessment](https://github.com/anich04/IDOR-exploit-simulation) | Web-app security assessments against OWASP Top 10 vulnerabilities | Burp Suite, Python |
+| 📡 [Network Sniffer (GA)](https://github.com/anich04/network-sniffer-GA) | Network traffic capture and analysis tool | Python, Scapy |
 
 ---
 
 ## 🛠️ Tech Stack
-`Python` • `Kali Linux` • `Nmap` • `Burp Suite` • `OWASP` • `Git` • `Socket Programming` • `Networking`  
+
+**Blue-team / SOC:** Wireshark · Splunk · Elastic · Sysmon · SIEM · MITRE ATT&CK
+
+**Scripting & Dev:** Python · Bash · Linux
+
+**Security tools:** Nmap · Burp Suite · OWASP ZAP · Nessus
+
+**Networking:** TCP/IP · DNS · HTTP · Packet Analysis
 
 ---
 
 ## 📈 Currently Working On
-- Automating recon scripts for bug bounty  
-- Enhancing my Python vulnerability scanner  
-- Preparing for cybersecurity internships  
+
+- Building a home SIEM lab and documenting full incident investigations
+- TryHackMe SOC Level 1 path
+- CompTIA Security+ exam prep
+- Looking for an **entry-level SOC Analyst / Security Analyst** role in Hyderabad or Bangalore
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-ch-713575254/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/anich04)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anirudh_Chennupati-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anirudh0402/)
+
+📧 chennupatianirudh@gmail.com
 
 ---
 
-> 💬 “Every exploit begins with curiosity — I learn by breaking, building, and securing.”
+💬 *"The best defenders think like attackers — I build tools to catch threats, not just to find them."*
