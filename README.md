@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Anirudh Chennupati
 
 🎓 **Computer Science Graduate (B.Tech, 2026) — KMIT, Hyderabad**
-🛡️ **Aspiring SOC Analyst | Threat Detection · Incident Response | CompTIA Security+ candidate · TryHackMe SOC L1**
+🛡️ **Aspiring SOC Analyst | Threat Detection · Incident Response **
 
 ---
 
